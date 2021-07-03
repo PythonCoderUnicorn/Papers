@@ -1,0 +1,321 @@
+ PSYCH 1000 --- LECT & READING NOTES
+
+lect1 :  Facilitated Communication p.1-12
+-------------------------------------------
+> neil 25 is autistic, no verbal communication
+> echolalic speech = echo back what was heard
+> Facilitated comm. developed by Rosemary Crossley in Australia
+> popularized by Douglas Biklen
+> facilitator person holds wrist or arm to help point to letters of individual
+	why hold arm? = poor eye/hand coordination, low muscles strength
+> structured questions, fill in blank, simple matching questions used initially
+> autistic - problems with generating language, difficult to put words together in meaningfully 
+
+> Contraversy: (Australia, N.Amer & Academic Journals)
+> Questions:
+	1. where did the autistic clients get their new skillset?
+		{learn spelling & grammar} Biklen argues these people picked up the language like kids do via exposure.
+		Biklen' students reported to learn math from TV, being read to and flash cards
+
+	2. who is the communication from?
+		client or facilitator thoughts un/knowingly affect the communication?
+		Theoretical: validity of procedure
+		Legally: whose thoughts? ex. person & facilitator see car crash, who is giving testimony 2 people or 1?
+				IF facilitator answering, the facilitator has taken self-determination away from person
+
+		principles of facilitated comm.:
+				1. clients are not to be tested, rationale- causes stress which can interfere with support
+
+		6 arguments it's client Comm. : 1. style,speed,accuracy are constant
+										2. typing errors are unique
+										3. many invent spellings unique to them while same facilitator
+										4. unusual phrases typed 
+										5. content typed not known to facilitator
+										6. individuals reveal their personalities
+
+
+
+		Calculator & Singer tested 5 kids for 3 months, given 2 forms of Peabody Picture Vocab Test, 
+			2 testing sessions separated by 2 weeks, 1 week facilitator not present. when present the
+			facilitator wore earplugs with white noise. all 5 kids scored below norm when facilitator not there.
+
+	3. what was the autistic client pre-treatment condition?
+		there's no documented case of autistic person eventually typing independently 
+	
+	4. who is communicating?
+		study in OD Heck Dev. Centre, Schenectady New York: controlled study, 
+		12 participants 16-30 yrs all have been using Fac.Comm. for 5-12 months.
+		T-barrier was used for 3 conditions:
+				1. facilitated condition, client only was shown card & answer w/ facilitator
+				2. non-facilitated condition, client shown card w/ no facilitator interaction
+				3. distractor condition, both client & facilitator shown pictures, client answered w/ facilitator.
+					half the time picture shown to client were same for facilitator
+
+		total of 180 trials, clients showed zero communication
+		Wheeler was trying to prove Fac.Comm. worked
+
+		facilitators made 10 short answer questions clients could answer
+		1. client answered using fac.comm. = 4/5 got perfect score
+		2. questions prerecorded & asked both the client and facil. over earphones = 3/5 got perfect score
+		3. client heard question over earphones and facil. heard music = 0/5 got perfect score
+
+		Moore study
+			first part facil. left room, client saw & touch object, listen to description of it.
+			second part, same but client's caregiver talked to them about specific topic
+			18 objects to 5 clients = zero were identified
+			17 topics to 5 clients  = zero "              "
+
+		when facil. couldn't hear questions NO client got any question correct
+		Szempruch & Jacobson 127 trials, 23 clients = zero correct answers
+
+
+
+
+lect 2a: Subliminal Messages p.287-303
+----------------------------------------
+> subliminal persuasion = use of hidden imperceptible stimuli to manipulate viewers/listeners to behave in a modified way
+
+> many believe to be methods of advertisers and large corporations. <<<-----Prof. Wilson Bryan Key
+	$50 million/yr subliminal self help tapes
+
+> "Eat popcorn/drink coke":	James Vicary 1950s
+	(41% people believed in subliminal messages >> [1980s] 80% ---NO scientific review)
+
+	Fort Lee New Jersey Vicary study - 6 wks, flashed message 1/3 millisecond every 5 seconds. 
+	Vicary claimed increase in popcorn sales 58%, 18% coke  --------- NEVER HAPPENDED
+
+	CBC study "call now" 352 times on 'Close-Up' show, no one called or got the message, 500 ppl got hungry/thirsty
+
+	Precon Process & Equip. = patent rights for subliminal 
+
+	US Nat'l Assoc. Breadcasters, Britain, Australia = banned subliminal ads
+
+> advertising, TV,radio, film used subliminal
+	George Miller made Mad Max subliminal, no proof it worked
+
+> "SUBLIMINAL"
+	= 'limen of consciousness', a line separating conscious from unconscious
+
+	Johan Friedrich Herbart - ideas differed from another in strength, competing to rise above the 
+							limen of consciousness = consciously experienced
+							subliminally (below the limen) can still affect what we experience consciously & behave
+
+
+	trying to gain conscious control of cognitive processes == halt in process
+	sensory information is a continuum of being aware and not
+
+	2 thresholds:
+		subjective threshold - stimulus individual claims 'guess/'feels' but event prescence observers do not report	
+
+			psychologist Pierce & Jastrow = pressure on finger
+			Sidis used cards
+			-- adjust intensity or duration of stimulus = people no longer aware between events
+
+
+		objective threshold - (lower level) stimulus observer is no longer able to descriminate between events/ can't detect
+						** no evidence that events affect behaviour, if stimulus is below objective != effect
+
+
+> Wilson Bryan Key & subliminals
+	Key's claim ads influence buying by imbedding sex words & symbols
+	
+	key's 'subliminal' = selective attention
+	
+	claims are contradictory to science of neurophysiology = perceive+analyse+comprhend ad < 1 milisecond
+
+	"U-buy" backwards on rum, 1 month sex subliminal in playboy, 
+	pre-trial for Judas Priest Key failed to answer question so judge refused to allow him in the court
+
+> subliminal auditory self help
+	some tapes warn you about the fraudulent tapes that use subliminal techniques that dont work
+	
+	Merikle: subliminal tapes and did spectrographic analysis and found just music on tapes
+
+	Hal Becker business man started subliminal audiotapes 1978-79, 
+		50 department stores played "i am honest; i will not steal" with claim reduction in theft (no evidence)
+
+	visual subliminals limit length of exposure Backward exposure
+	audio subliminals stimulus is reduced by volume, basil membrane affected by physical energy 
+		-- how to separate drowned out signal from masked stimulus?
+
+	no evidence
+
+	Greenwald study: volunteers did paperwork of self-esteem & memory, used tapes for 5 wks, half got correct instructions
+		for the tapes the other half got instructions for either tape. after 5 wks, paperwork again on self esteem & memory
+		results show NO effect. subjects believed the tapes worked. testimonials = worthless.
+
+> subliminals in rock music
+	1982 Gary Greenwald lectured on 'backward masking' in rock music = message by playing music backwards
+
+	messages not apparent when music played normally but claims message unconsciously evil
+
+	are these messages really there? ------------ music backwards sounds like Swedish chef on muppets
+
+	backwards music has a word or phrase only if listener is told about it but otherwise is garbage
+
+	"jesus loves you" <<< = 'we smell sausage'
+
+	Pink Floyd "what shall we do now?" <<< ' congrats you have found a secret message, please send answer to old pink'
+
+	NO effect of backwards messages on listeners un/consciously
+
+	teens & Ozzy 1984 "suicide solution" forward subliminal = was ANTI suicide court case dismissed
+	1985 christmas, teens & Judas Priest "beyond the realms of death" forward subliminal 'do it'
+
+
+	
+
+
+lect 2b: Sex and Gender Diversity p.275-285
+--------------------------------------------
+
+> sex = Indo_Euro word, dichotomous, 1 from the other
+		Latin _sexus_ either of 2 divisions of organic nature --male/female
+
+	sex refers to biology:  1. sex chromosomes
+							2. sex hormones
+							3. gonads
+							4. internal reprod organs
+							5. gametes
+							6. external genitalia
+							7. 2nd sex characteristics
+
+	males = XY chromosomes, androgen,testes,vas deferens....
+	females = XX chromosomes, estrogen, ovaries ....
+	biological criteria for defining male/female differs culturally
+
+> gender = Indo_Euro word systems of classification may be many categories
+
+	culturally constructed categories for people: boys/men & girls/women based on age
+
+	external genitals determines if male then dressed in blue/ pink if female
+
+	gender roles differ culturally, gender role enactment conform to culture's gender 
+
+	Canada: sex is legally defined on external genitals + 2nd sex characteristics
+
+	transsexuals = uncomfortable with natal sex & prefer to be other sex
+
+	sexual identity != biology of natal sex
+
+> changing gender
+	either gender role behavior can be done by either gender
+
+	androgynous individuals = masculine+feminine, Grace Jones singer
+	gender undifferentiated individuals = non-femine/masculine, "Pat" saturday night live
+
+	transgendered != transsexuals (desire to change external genitals)
+
+> 2 sexes enough?
+	intersexed individual Chris Androgen Insensitive Syndrome(AIS) androgens receptor fail to read androgen.
+	Chris has female sex genitals but is infertile & no menstruation. not male not female.
+
+	babies with ambiguous genitals = surgery == psych + physical trauma
+
+	Dominican Republic - 3 sexes: males/females/guevedoche 'eggs at 12'
+		guevedoche = XY chromonsomes, 5-alpha reductase which converts testosterone, male genitals form at puberty
+		not males/not females. raised as girls the puberty live as males. 2 genders: boy/man girl/woman
+
+> 2 genders enough?
+	gender is dichotomous
+
+	Canada: children behave as opposite gender = diagnosed Gender Indentity Disorder, very harmful.
+			Daphne Scholinski was one. NO EVIDENCE kids with GID = mental disorder
+
+	gender parameters in other cultures:	1. type of work performed
+											2. religious activities engaged in
+											3. sex position used
+											4. if sexually abstinent or not
+											5. sexual orientation
+											6. clothing worn & appearance
+											7. mannerisms
+	alt gender terms = { alyha, hwama,hijra,sadhin,bakla,kathoey,mahu, * fa'afafine (Samoa)}
+
+	Oman culture: 3 genders= boy/man| girl/woman| xanith -bio males but not boys/men/girls/woman
+		man = penile penetration of sex partners male or female
+		xanith = NO penetration of sex partner but receive anal sex ----- sex position defines gender
+
+		xanith masculine + feminine behavior, interact with both women/men private/public
+		wear unpatterned coloured robes parting hair on the side
+
+
+
+
+
+lect 3a:  Where does Schizoprenia come from? p.209-215
+-------------------------------------------------------
+> schizophrenia is adult behaviour, mental illness = wrong feelings,thoughts,behaviour
+> 1 in 100 has schizo break, 600 people in Lethbridge
+> Amer Psych Assoc. - Diagnostic & Stats Manual of Mental Disorders (DSM-IV)
+> 1 symptom = delusions, beliefs that aren't true, emotions not matched to situation
+> US schizo people felt that the Communists were to get them
+> Canada schizo felt it was RCMP out to get them
+> next door neighbor in grad school felt profs were trying to fail him
+> 2 years before others understand its mental illness
+
+> what happens
+	often leave school,work, get hospitalized and treated
+	psychotherapy does not work its the brain not enviro being the problem
+
+	25% = recover few - no symptoms
+	30% = do okay but have problems
+	30% = bad in/out of hospital/jobs, never marry
+	10% = suicide
+
+> genetics & risk
+	inheritance matters: schizo parent = 10%, schizo twin= 50%
+	public risk is 1%
+
+	Scarr & McCartney - Genotype Enviro Correlation.
+		adopted kids with bio parent with schizo = 10% risk
+		bio parents no schizo with adopted kid with schizo = 2%
+
+	metabolism of frontal and temporal don't work properly.
+	study of eye movement because brain control it and can be studied
+
+> childhood / stress
+	trace backwards, some people with schizo were in 3rd fetal month when mother got the flu - possible damage to brain
+
+	schizo more likely to have stressful births -ambiguous term-
+
+	Israel study - long term repeated stress
+
+	less women than men get schizo, woman have emphasis on friendship, support, cooperation helps lower stress
+
+
+> variable people normal except for illness
+
+
+*** lect 3b: turn off das blinkenlights and Sitzfleisch     p.225-244
+-----------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
